@@ -1,2 +1,2 @@
-# 2gis-parser
+# 2gis parser
 Fast map parser 2gis
